@@ -1,7 +1,7 @@
 ![logo](https://github.com/yash-codes02/yash-codes02/blob/main/Purple%20Black%20Fiday%20Minimalist%20Canvas%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Yash Shaw</h1>
 <h3 align="center">A passionate Tech Geek and Cybersecurity Enthusiast</h3>
-<img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="100" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-codes02&label=Profile%20views&color=0e75b6&style=flat" alt="yash-codes02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-codes02" alt="yash-codes02" /></a> </p>
