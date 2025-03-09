@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yash Shaw</h1>
 <h3 align="center">I am a dynamic Full Stack Developer with a passion for building innovative, high-performance web applications.As a cybersecurity enthusiast, I’m deeply committed to exploring and implementing best practices for securing digital environments. My journey in tech is driven by a continuous desire to learn and evolve, coupled with a robust background in community leadership. I’ve organized and led numerous tech events, hackathons, and conferences, dedicated to fostering collaboration and growth within the tech community.</h3>
 
-- 🔭 I’m currently working at **Klarustech**
+- 🔭 I’m currently working at **SecurityLit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yasheroic/](https://github.com/yasheroic/)
 
